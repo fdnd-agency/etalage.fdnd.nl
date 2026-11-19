@@ -11,12 +11,3 @@ https://www.figma.com/design/Xgzm66iNbMVQIe4pw7Rf8T/Interface-Inventory---UI%E2%
 Bij het ontwikkelen van nieuwe pagina’s, componenten of functionaliteiten wordt aanbevolen om eerst het design system te raadplegen en bestaande componenten waar mogelijk te hergebruiken.
 Op deze manier blijft de website schaalbaar, onderhoudbaar en visueel consistent voor toekomstige teams.
 
-## Wat is de huidige status van het project?
-
-Het final design van ons team is afgemaakt en staat klaar in het Figma-bestand, waar ook alle components van de component library en het Design System in staan.
-
-## Wat zijn de belangrijkste features die al werken?
-
-## Wat zijn de grootste aandachtspunten of uitdagingen?
-
-## Wat wordt aangeraden als eerste stap voor het volgende team?
